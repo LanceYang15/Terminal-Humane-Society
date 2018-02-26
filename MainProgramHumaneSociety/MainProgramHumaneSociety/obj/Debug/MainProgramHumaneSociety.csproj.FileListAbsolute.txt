@@ -1,0 +1,21 @@
+C:\Users\Lance\Desktop\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\bin\Debug\MainProgramHumaneSociety.exe.config
+C:\Users\Lance\Desktop\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\bin\Debug\MainProgramHumaneSociety.exe
+C:\Users\Lance\Desktop\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\bin\Debug\MainProgramHumaneSociety.pdb
+C:\Users\Lance\Desktop\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\obj\Debug\MainProgramHumaneSociety.csprojResolveAssemblyReference.cache
+C:\Users\Lance\Desktop\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\obj\Debug\MainProgramHumaneSociety.exe
+C:\Users\Lance\Desktop\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\obj\Debug\MainProgramHumaneSociety.pdb
+C:\Users\Lance\Documents\Software Development\0 Courses\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\bin\Debug\MainProgramHumaneSociety.exe.config
+C:\Users\Lance\Documents\Software Development\0 Courses\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\obj\Debug\MainProgramHumaneSociety.exe
+C:\Users\Lance\Documents\Software Development\0 Courses\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\obj\Debug\MainProgramHumaneSociety.pdb
+C:\Users\Lance\Documents\Software Development\0 Courses\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\bin\Debug\MainProgramHumaneSociety.exe
+C:\Users\Lance\Documents\Software Development\0 Courses\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\bin\Debug\MainProgramHumaneSociety.pdb
+C:\Users\Lance\Documents\Software Development\0 Courses\devCodeCamp\Assignment8 HumaneSociety\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\obj\Debug\MainProgramHumaneSociety.csprojResolveAssemblyReference.cache
+C:\Users\Lance\Documents\Software Development\1 Projects\002 Terminal-Humane-Society\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\bin\Debug\MainProgramHumaneSociety.exe.config
+C:\Users\Lance\Documents\Software Development\1 Projects\002 Terminal-Humane-Society\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\obj\Debug\MainProgramHumaneSociety.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\002 Terminal-Humane-Society\HumanSocietyProjectLance\MainProgramHumaneSociety\MainProgramHumaneSociety\obj\Debug\MainProgramHumaneSociety.pdb
+C:\Users\Lance\Documents\Software Development\1 Projects\002 Terminal-Humane-Society\Project\MainProgramHumaneSociety\MainProgramHumaneSociety\bin\Debug\MainProgramHumaneSociety.exe.config
+C:\Users\Lance\Documents\Software Development\1 Projects\002 Terminal-Humane-Society\Project\MainProgramHumaneSociety\MainProgramHumaneSociety\obj\Debug\MainProgramHumaneSociety.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\002 Terminal-Humane-Society\Project\MainProgramHumaneSociety\MainProgramHumaneSociety\obj\Debug\MainProgramHumaneSociety.pdb
+C:\Users\Lance\Documents\Software Development\1 Projects\002 Terminal-Humane-Society\Project\MainProgramHumaneSociety\MainProgramHumaneSociety\bin\Debug\MainProgramHumaneSociety.exe
+C:\Users\Lance\Documents\Software Development\1 Projects\002 Terminal-Humane-Society\Project\MainProgramHumaneSociety\MainProgramHumaneSociety\bin\Debug\MainProgramHumaneSociety.pdb
+C:\Users\Lance\Documents\Software Development\1 Projects\002 Terminal-Humane-Society\Project\MainProgramHumaneSociety\MainProgramHumaneSociety\obj\Debug\MainProgramHumaneSociety.csprojResolveAssemblyReference.cache
