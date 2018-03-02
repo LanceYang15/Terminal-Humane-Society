@@ -15,11 +15,12 @@ namespace MainProgramHumaneSociety
 
         public void UserPersonMenu()
         {
-            Console.WriteLine("Log in as:");
-            Console.WriteLine("[1] Employee");
-            Console.WriteLine("[2] Customer");
+            //Console.WriteLine("Log in as:");
+            Console.WriteLine("What would you like to do?\n");
+            Console.WriteLine("[1] Employee Sign In");
+            //Console.WriteLine("[2] Customer");
             Console.WriteLine("");
-            Console.WriteLine("[3] Exit Program");
+            Console.WriteLine("[2] Exit Program");
         }
     }
 }

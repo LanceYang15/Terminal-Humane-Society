@@ -55,11 +55,11 @@ namespace MainProgramHumaneSociety
                         EmployeeWindow();
                         break;
 
-                    case "2":
-                        //show customer window
-                        break;
+                    //case "2":
+                    //    //show customer window
+                    //    break;
 
-                    case "3":
+                    case "2":
                         running = false;
                         break;
 
