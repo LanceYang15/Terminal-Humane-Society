@@ -15,8 +15,8 @@ namespace MainProgramHumaneSociety
 
         public void ShowMenuSelection()
         {
-            Console.WriteLine("[ Welcome to the Employee Menu ]");
-            Console.WriteLine("What would you like to do?");
+            Console.WriteLine("[ Welcome to the Employee Menu ]\n");
+            Console.WriteLine("What would you like to do?\n");
             Console.WriteLine("[1] Add New Animal");
             Console.WriteLine("[2] Update Animal Database");
             Console.WriteLine("[3] Display Animal Database");
